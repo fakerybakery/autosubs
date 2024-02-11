@@ -8,4 +8,4 @@ pip install -r requirements.txt
 python main.py input.mp4 output.mp4
 ```
 
-license: gpl
+license: mpl (mozilla public license) v2
